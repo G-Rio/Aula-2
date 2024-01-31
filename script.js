@@ -63,7 +63,6 @@ function trocarTamanho(){
 
 
 
-
 //OBJETO É DEFINIDO ASSIM         
 /*
     const caixinha = {
